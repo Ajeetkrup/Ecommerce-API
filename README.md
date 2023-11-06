@@ -8,7 +8,7 @@ Check out this application using postman - https://ecommerce-api-ot47.onrender.c
 1. To create a product with name and quantity property - POST /products/create
 2. To get the list of all the products - GET /products
 3. To delete product by id - DELETE /products/:id
-4. To update the quantity of the product by id - POST /products/:id/update_quantity?number=qtyToUpdae
+4. To update the quantity of the product by id - POST /products/:id/update_quantity?number=qtyToUpdate
 
 ## Prerequisites
 Before running the application, ensure that you have the following installed on your system:
