@@ -1,8 +1,8 @@
-# [Ecommerce API]() - Backend Web Application with Node.js, Express, and MongoDB
+# [Ecommerce API](https://ecommerce-api-ot47.onrender.com) - Backend Web Application with Node.js, Express, and MongoDB
 
 This is a Backend web application built with the Node.js runtime environment, Express.js framework, and MongoDB as the database. The application follows the Model-View-Controller (MVC) architecture pattern. 
 
-Check out this application - 
+Check out this application using postman - https://ecommerce-api-ot47.onrender.com
 
 ## Following API's are implemented - 
 1. To create a product with name and quantity property - POST /products/create
